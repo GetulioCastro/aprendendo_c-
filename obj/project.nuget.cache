@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOibrmJpoRtV0z3lWxib8NN5mSkKBsXawLCioQMUgTcTM/JIkDvWCXrDdWeHdR2v/pC35kjR1Rt7a2xaXHBrZg==",
+  "dgSpecHash": "Rx6CXjM5Z3wZJeMvfHPTn2DlQtQjJtedxuLZ4SeijDEWVLWDQ8rSlfCuMNSdjV/sDFS8qgeFi+NtyghfHnwaSg==",
   "success": true,
-  "projectFilePath": "/home/runner/CursoCFBC/main.csproj",
+  "projectFilePath": "/home/runner/Aula02/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
