@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UtDLVJArpuFlxyB3BfYA5pWiyO+FLz7pFkWyPe6z0r2Nzyl0QuOkq+ZBgR4dRCF/ulRN+D1MRoUfUAJs5kdsrQ==",
+  "dgSpecHash": "nmNbeR8Iy2HDYIMPIsHkZrwGUYlQkOKo1jdKof3JWKU17wXesXfJFzIvAz2SzxIFHvzWGMWtXRrdV0xyoH9VUg==",
   "success": true,
-  "projectFilePath": "/home/runner/Aula05operadores/main.csproj",
+  "projectFilePath": "/home/runner/Aula06/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
