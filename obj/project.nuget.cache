@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJRj6JYb+PKcr0cTn4wnpoSNyzLUaa3DfS2b+bVTkt/qW2apgNDEdEvd831DAQ83/R/1AjLjEi1zTS8bJYx1BA==",
+  "dgSpecHash": "gOibrmJpoRtV0z3lWxib8NN5mSkKBsXawLCioQMUgTcTM/JIkDvWCXrDdWeHdR2v/pC35kjR1Rt7a2xaXHBrZg==",
   "success": true,
-  "projectFilePath": "/home/runner/Aula04EscopoDeVariaveis/main.csproj",
+  "projectFilePath": "/home/runner/CursoCFBC/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

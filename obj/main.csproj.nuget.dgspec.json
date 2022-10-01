@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Aula04EscopoDeVariaveis/main.csproj": {}
+    "/home/runner/CursoCFBC/main.csproj": {}
   },
   "projects": {
-    "/home/runner/Aula04EscopoDeVariaveis/main.csproj": {
+    "/home/runner/CursoCFBC/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Aula04EscopoDeVariaveis/main.csproj",
+        "projectUniqueName": "/home/runner/CursoCFBC/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/Aula04EscopoDeVariaveis/main.csproj",
+        "projectPath": "/home/runner/CursoCFBC/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Aula04EscopoDeVariaveis/obj/",
+        "outputPath": "/home/runner/CursoCFBC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
