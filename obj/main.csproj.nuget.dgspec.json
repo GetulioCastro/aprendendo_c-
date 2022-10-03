@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Aula12/main.csproj": {}
+    "/home/runner/Aula12-1/main.csproj": {}
   },
   "projects": {
-    "/home/runner/Aula12/main.csproj": {
+    "/home/runner/Aula12-1/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Aula12/main.csproj",
+        "projectUniqueName": "/home/runner/Aula12-1/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/Aula12/main.csproj",
+        "projectPath": "/home/runner/Aula12-1/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Aula12/obj/",
+        "outputPath": "/home/runner/Aula12-1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
